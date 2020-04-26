@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>contact@taz0.org (TAZ 0)</managingEditor>
     <webMaster>contact@taz0.org (TAZ 0)</webMaster>
-    <lastBuildDate>Mon, 30 Mar 2020 06:40:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2020 19:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cypherpunk Bitstream 0x09: Security III — The Future of Security</title>
+      <link>/bitstream/0x09-securityiii/</link>
+      <pubDate>Sun, 26 Apr 2020 19:00:00 +0000</pubDate>
+      <author>contact@taz0.org (TAZ 0)</author>
+      <guid>/bitstream/0x09-securityiii/</guid>
+      <description>&lt;p&gt;We &lt;a href=&#34;https://cdn.anarplex.net/cdn/cypherpunk-bitstream/episodes/CypherpunkBitstream-0x09-Security-III-low.mp3&#34;&gt;talk&lt;/a&gt; about the future of security: future threats, technological empowerment, defence strategy in general, and example defence technology (anon comms, delay&amp;amp;disruption tolerant networking, long-range autonomous cargo drones, etc.).&lt;/p&gt;
+&lt;p&gt;The is also a somewhat &lt;a href=&#34;https://cdn.anarplex.net/cdn/cypherpunk-bitstream/episodes/CypherpunkBitstream-0x09-Security-III.mp3&#34;&gt;higher quality&lt;/a&gt;
+version of the MP3.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Cypherpunk Bitstream 0x08: Pandemic II — Police State</title>
