@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>contact@taz0.org (TAZ 0)</managingEditor>
     <webMaster>contact@taz0.org (TAZ 0)</webMaster>
-    <lastBuildDate>Tue, 25 Aug 2020 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2020 14:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cypherpunk Bitstream 0x0b: The Roots of Parallel Polis</title>
+      <link>/bitstream/0x0b-the-roots-of-parallel-polis/</link>
+      <pubDate>Mon, 14 Sep 2020 14:00:00 +0000</pubDate>
+      <author>contact@taz0.org (TAZ 0)</author>
+      <guid>/bitstream/0x0b-the-roots-of-parallel-polis/</guid>
+      <description>We talk with Martin Leskovjan and Juraj Bednár about the roots of Parallel Polis, a socio-political concept created by Václav Benda in connection with Charter 77. Parallel Polis was about creating parallel societies during the Czechoslovak Socialist Republic.
+We also cover how it inspired and influenced the contemporary projects Paralelní Polis in Prague and Paralelna Polis in Bratislava in which Martin and Juraj are involved.
+What can we learn from the Parallel Polis concept for contemporary freedom movements?</description>
+    </item>
     
     <item>
       <title>Cypherpunk Bitstream 0x0a: Power</title>
