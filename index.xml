@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>contact@taz0.org (TAZ 0)</managingEditor>
     <webMaster>contact@taz0.org (TAZ 0)</webMaster>
-    <lastBuildDate>Sun, 17 Jan 2021 03:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Feb 2021 21:15:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cypherpunk Bitstream 0x0d: Non-Compliance</title>
+      <link>/bitstream/0x0d-non-compliance/</link>
+      <pubDate>Sun, 28 Feb 2021 21:15:00 +0000</pubDate>
+      <author>contact@taz0.org (TAZ 0)</author>
+      <guid>/bitstream/0x0d-non-compliance/</guid>
+      <description>We talk about non-compliance, why people are so compliant, and discuss a listener&amp;rsquo;s critique of the power episode.
+Subscribe  Pocket Casts Spotify Stitcher Apple Podcasts Overcast Google Podcasts PlayerFM YouTube  Discuss We&amp;rsquo;re on bbs.anarplex.net with our own board to discuss!
+Hosts  Smuggler (Twitter) Frank Braun (Twitter)  Contact  Email: bitstream@taz0.org PGP fingerprint: 1C4A EFDB 8783 6614 C54D E230 2500 7933 D85F 2119 (key)  Snail mail Bitstream Scanbox #06965 Ehrenbergstr.</description>
+    </item>
     
     <item>
       <title>Cypherpunk Bitstream 0x0c: Censorship</title>
