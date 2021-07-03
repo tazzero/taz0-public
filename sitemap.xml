@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/bitstream/0x0d-non-compliance/</loc>
-    <lastmod>2021-02-28T21:15:00+00:00</lastmod>
+    <loc>/bitstream/0x0e-culture-corruption/</loc>
+    <lastmod>2021-07-03T03:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2021-07-03T03:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/bitstream/0x0d-non-compliance/</loc>
     <lastmod>2021-02-28T21:15:00+00:00</lastmod>
   </url>
   

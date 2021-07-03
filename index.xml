@@ -8,10 +8,20 @@
     <language>en-us</language>
     <managingEditor>contact@taz0.org (TAZ 0)</managingEditor>
     <webMaster>contact@taz0.org (TAZ 0)</webMaster>
-    <lastBuildDate>Sun, 28 Feb 2021 21:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jul 2021 03:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cypherpunk Bitstream 0x0e: Culture Corruption</title>
+      <link>/bitstream/0x0e-culture-corruption/</link>
+      <pubDate>Sat, 03 Jul 2021 03:00:00 +0000</pubDate>
+      <author>contact@taz0.org (TAZ 0)</author>
+      <guid>/bitstream/0x0e-culture-corruption/</guid>
+      <description>In this episode we discuss cultural changes and contradictions in popular opinions which were formed over the last decade. We talk about cancel culture and the role of moderate views in the public discussion about social issues. Also, we reflect on the level of political and economic freedom around the world and how crypto-anarchism can minimize state and corporate power abuses.
+Subscribe  Pocket Casts Spotify Stitcher Apple Podcasts Overcast Google Podcasts PlayerFM YouTube  Discuss We&amp;rsquo;re on bbs.</description>
+    </item>
     
     <item>
       <title>Cypherpunk Bitstream 0x0d: Non-Compliance</title>
