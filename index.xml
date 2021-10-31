@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>contact@taz0.org (TAZ 0)</managingEditor>
     <webMaster>contact@taz0.org (TAZ 0)</webMaster>
-    <lastBuildDate>Sat, 03 Jul 2021 03:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Oct 2021 00:00:15 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cypherpunk Bitstream 0x0f: The Law Won&#39;t Save You</title>
+      <link>/bitstream/0x0f-the-law-wont-save-you/</link>
+      <pubDate>Sun, 31 Oct 2021 00:00:15 +0000</pubDate>
+      <author>contact@taz0.org (TAZ 0)</author>
+      <guid>/bitstream/0x0f-the-law-wont-save-you/</guid>
+      <description>In this episode episode we discuss Protonmail, lack of legal protection for privacy services, legal loopholes, and jurisdictional arbitrage.
+Subscribe  Pocket Casts Spotify Stitcher Apple Podcasts Overcast Google Podcasts PlayerFM YouTube  Discuss We&amp;rsquo;re on bbs.anarplex.net with our own board to discuss!
+Hosts  Smuggler (Twitter) Frank Braun (Twitter)  Contact  Email: bitstream@taz0.org PGP fingerprint: 1C4A EFDB 8783 6614 C54D E230 2500 7933 D85F 2119 (key)  Snail mail Bitstream Scanbox #06965 Ehrenbergstr.</description>
+    </item>
     
     <item>
       <title>Cypherpunk Bitstream 0x0e: Culture Corruption</title>
